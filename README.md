@@ -13,7 +13,7 @@ The script supports the following Windows versions:
 For each Windows version, the script provides options for different editions (e.g., Home, Pro, Enterprise, Education).
 
 ## Download
-If you do not want to install Python and its dependencies on your system, you can download an executable file from the [releases page](https://github.com/miceroman/windact/releases). Simply download the file and double-click it to run the program.
+If you do not want to install Python and its dependencies on your system, you can download an executable file from the [releases page](https://github.com/miceroman/windact/releases). Simply download the file and run the program with admin rights.
 
 ## Prerequisites
 
